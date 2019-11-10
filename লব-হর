@@ -1,11 +1,13 @@
 #include<stdio.h>
 int main()
 {
-  float lob.hor,result;
-  scanf("%f %f",&lob,&hor);
-  lob = a*a*a+3*a*a*b+3*a*b*b+b*b*b;
+  int a,b;
+  float lob,hor,result;
+  printf("Enter the value of a & b: ");
+  scanf("%d %d",&a,&b);
+  lob = ((a*a*a)+(3*a*a*b)+(3*a*b*b)+(b*b*b));
   hor = sqrt(a+b);
   result = lob/hor;
-  printf("Result: ",result);
+  printf("Result: %f",result);
   return 0;
 }
