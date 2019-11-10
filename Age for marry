@@ -3,28 +3,30 @@ int main()
 {
     int age;
     char sex;
+    printf("Enter your Sex: ");
     scanf("%c",&sex);
+    printf("Enter your Age: ");
     scanf("%d",&age);
     if(sex='M')
     {
         if(age>=21)
         {
-            printf("you are eligible for marry");
+            printf("you are eligible for marry\n");
         }
         else
         {
-            printf("you are not eligible");
+            printf("you are not eligible\n");
         }
     }
-    if(sex='F')
+   else if(sex='F')
     {
         if(age>=18)
         {
-            printf("you are eligible for marry");
+            printf("you are eligible for marry\n");
         }
         else
         {
-            printf("you are not eligible");
+            printf("you are not eligible\n");
         }
     }
 }
