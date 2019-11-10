@@ -9,13 +9,13 @@ int main()
     {
     case 1:
         for(i=1;i<=20;i++)
-            printf("%d ",i);
+            printf("%d\n",i);
             break;
     case 2:
         i=1;
         while(i<=20)
         {
-            printf("%d ",i);
+            printf("%d\n",i);
             i++;
         }
         break;
@@ -25,3 +25,4 @@ int main()
     }
     return 0;
 }
+
