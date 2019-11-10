@@ -1,0 +1,36 @@
+Syntax of if :
+
+    if (expression)
+{
+   // statement(s) will execute if expression is true
+}
+
+Syntax of if…else :
+
+    if (expression) {
+    // statement(s) will execute if expression is true
+}
+else {
+    // statement(s) will execute if expression is false
+}
+
+Syntax of nested if…else :
+
+    if (expression1)
+{
+   // statement(s) will execute if expression1 is true
+}
+else if(expression2)
+{
+   // statement(s) will execute if expression1 is false and expression2 is true
+}
+else if (expression3)
+{
+   // statement(s) will execute if expression1 and expression2 are false and expression3 is true
+}
+.
+.
+else
+{
+   // statement(s) will execute if all expressions are false
+}
