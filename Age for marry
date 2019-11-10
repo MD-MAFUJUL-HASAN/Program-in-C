@@ -4,7 +4,7 @@ int main()
     int age;
     char sex;
     printf("Enter your Sex: ");
-    scanf("%c",&sex);
+    scanf(" %c",&sex);
     printf("Enter your Age: ");
     scanf("%d",&age);
     if(sex='M')
