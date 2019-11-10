@@ -1,0 +1,30 @@
+#include<stdio.h>
+int main()
+{
+    int age;
+    char sex;
+    scanf("%c",&sex);
+    scanf("%d",&age);
+    if(sex='M')
+    {
+        if(age>=21)
+        {
+            printf("you are eligible for marry");
+        }
+        else
+        {
+            printf("you are not eligible");
+        }
+    }
+    if(sex='F')
+    {
+        if(age>=18)
+        {
+            printf("you are eligible for marry");
+        }
+        else
+        {
+            printf("you are not eligible");
+        }
+    }
+}
