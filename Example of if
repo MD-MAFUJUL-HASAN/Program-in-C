@@ -5,8 +5,8 @@ int main()
  printf("Enter your marks:");
  scanf("%d",&marks);
  if(marks>=80)
-   {
-   printf("You are a winner");
-   }
+   printf("You are a winner\n");
+else
+   printf("You are a looser\n");
    return 0;
 }
