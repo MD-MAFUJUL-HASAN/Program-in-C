@@ -1,0 +1,31 @@
+Syntax of for loop:
+
+    for(initialization; condition; increment/decrement)
+    {
+      statement(s);
+    }
+
+Syntax of while loop:
+
+    initialization;
+    while (condition)
+    {
+     statement(s);
+     increment/decrement;
+    }
+
+Syntax of nested for loop:
+
+    for(initialization; condition; increment/decrement)
+    {
+      for(initialization; condition; increment/decrement)
+         {
+            statement(s);
+         }
+    }
+
+Syntax of nested do…while loop:
+
+    do {
+   statement(s);
+    } while(condition);
