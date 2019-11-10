@@ -1,13 +1,13 @@
 #include<stdio.h>
 int main()
 {
-    int ac=12;
-    float bc,ab,area;
-    printf("Enter the number of ab=");
-    scanf("%f", & ab);
+    int ac=12,ab;
+    float bc,area;
+    printf("Enter the value of ab: ");
+    scanf("%d", & ab);
     bc = sqrt((ac*ac)-(ab*ab));
-    printf("The value of bc=%f", bc);
+    printf("The value of bc=%f\n", bc);
     area = ((ab*bc)/2);
-    printf("Area of Triangle=%f", area);
+    printf("Area of Triangle=%f\n", area);
     return 0;
 }
