@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+  float lob.hor,result;
+  scanf("%f %f",&lob,&hor);
+  lob = a*a*a+3*a*a*b+3*a*b*b+b*b*b;
+  hor = sqrt(a+b);
+  result = lob/hor;
+  printf("Result: ",result);
+  return 0;
+}
