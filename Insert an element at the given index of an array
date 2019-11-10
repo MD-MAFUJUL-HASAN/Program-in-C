@@ -1,0 +1,20 @@
+#include<iostream>;
+#define MAX 6
+using namespace std;
+
+int main()
+{
+    int a[MAX] = {10,20,30,40,50};
+    int N = 5; //no. of elements
+    int k = 2; //index position to insert data
+    int item = 100; //item to be inserted in index position
+
+    for(int i = N-1; i &gt;= k; i--){
+        a[i+1] = a[i];
+    }
+    a[k] = item;
+
+    for(int j = 0; j &lt; MAX; j++){
+        cout &lt;&lt; a[j] &lt;&lt; "\t";
+    }
+}
