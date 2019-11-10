@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main()
+{
+    int firstNumber, secondNumber;
+
+    printf("Enter two integers: ");
+    scanf("%d %d", &firstNumber, &secondNumber);
+    printf("%d %d", firstNumber, secondNumber);
+    return 0;
+}
