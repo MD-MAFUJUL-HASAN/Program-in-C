@@ -2,8 +2,10 @@
 int main()
 {
     int n,i,j,p;
+    
     printf("The value of N: ");
     scanf("%d",&n);
+    
     for(i=1;i<=n;i++)
     {
         p=0;
@@ -15,5 +17,6 @@ int main()
         if(p==2)
             printf("%d\t",i);
     }
+    
     return 0;
 }
