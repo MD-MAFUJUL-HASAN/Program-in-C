@@ -2,13 +2,17 @@
 int main()
 {
     int i,j=1,n,sum=0;
-        printf("Enter the value of N: ");
-        scanf("%d", &n);
-        for(i=1; i<=n; i++)
+    
+    printf("Enter the value of N: ");
+    scanf("%d", &n);
+    
+    for(i=1; i<=n; i++)
         {
             sum=sum+j;
             j=j+4;
         }
-        printf("\nSum of the total value : %d\n\n", sum);
+        
+    printf("\nSum of the total value : %d\n\n", sum);
+    
     return 0;
 }
