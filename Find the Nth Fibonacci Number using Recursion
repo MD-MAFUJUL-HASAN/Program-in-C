@@ -1,16 +1,24 @@
 #include<stdio.h>
-int fibo(int n){
+int fibo(int n)
+{
     int f;
-    if(n == 1 || n == 0) return n;
+    
+    if(n == 1 || n == 0) 
+        return n;
     f = fibo(n-1) + fibo(n-2);
-    return f;
+        return f;
 }
+
 int main()
 {
     int k,x;
+    
     printf("Enter a number: ");
     scanf("%d",&x);
+    
     k = fibo(x);
+    
     printf("The %d number in fibonacci series is: %d\n",x,k);
+    
     return 0;
 }
