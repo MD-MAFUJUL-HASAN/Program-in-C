@@ -4,16 +4,23 @@ int main()
 {
   float a,b,c;
   float d,root1,root2;
+  
   printf("Enter equation ax^2+bx+c : ");
   scanf("%fx^2 %fx %f",&a,&b,&c);
+  
   d = b*b - 4*a*c;
+  
   if(d<0)
   {
       printf("Roots are Complex\n");
       return 0;
   }
+  
   root1 = (-b+sqrt(d))/(2*a);
+  
   root2 = (-b-sqrt(d))/(2*a);
+  
   printf("Quadratic equation: %.3f %.3f",root1,root2);
+  
   return 0;
 }
