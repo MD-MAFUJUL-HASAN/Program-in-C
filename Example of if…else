@@ -2,15 +2,19 @@
 int main()
 {
  int marks;
+ 
  printf("Enter your marks:");
  scanf("%d",&marks);
+ 
  if(marks>=40)
    {
-   printf("You are a winner");
+   printf("You are a winner\n");
    }
+   
  else
    {
-   printf("you are a loser");
+   printf("you are a loser\n");
    }
+   
    return 0;
 }
