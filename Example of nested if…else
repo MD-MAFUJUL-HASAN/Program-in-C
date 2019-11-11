@@ -1,17 +1,27 @@
 #include <stdio.h>
-int main () {
+int main ()
+{
    int a = 50, b = 100;
-   if( a == b ) {
+   
+   if( a == b ) 
+   {
       printf("a is equal to b" );
    }
-   else if( a == 90 ) {
+   
+   else if( a == 90 ) 
+   {
       printf("a is equal to 90" );
    }
-   else if( b == 60 ) {
+   
+   else if( b == 60 ) 
+   {
       printf("b is equal to 60" );
    }
-   else {
+   
+   else 
+   {
       printf("a is not equal to b" );
    }
+   
    return 0;
 }
