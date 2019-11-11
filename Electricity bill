@@ -3,22 +3,35 @@ int main()
 {
     int CU,UP;
     float VAT,Bill;
-    while(1)
-    {
+    
         printf("Enter the value of consumption unit: ");
         scanf("%d",&CU);
+        
         printf("Enter the value of unit Price: ");
         scanf("%d",&UP);
-        if(CU>200)
-            UP>5;
-        else if(CU>400 && CU<600)
-            UP>10;
-        else if(CU>=600)
-            UP>15;
-        VAT = (CU*UP)*0.1;
-        printf("VAT is=%f\n",VAT);
-        Bill = (CU*UP)+VAT;
-        printf("Total Bill is=%f\n",Bill);
-    }
+        
+        if((CU>200)&&(UP>5))
+            {
+                VAT = (CU*UP)*0.1;
+                Bill = (CU*UP)+VAT;
+                printf("\nTotal Bill = %f\n\n",Bill);
+            }
+            
+        else if((CU>400 && CU<600)&&(UP>10))
+            {
+                VAT = (CU*UP)*0.1;
+                Bill = (CU*UP)+VAT;
+                printf("\nTotal Bill = %f\n\n",Bill);
+            }
+            
+        else if((CU>=600)&&(UP>15))
+            {
+                VAT = (CU*UP)*0.1;
+                Bill = (CU*UP)+VAT;
+                printf("\nTotal Bill = %f\n\n",Bill); 
+            }
+            
+        else
+            printf("\nInvalid\n\n");
     return 0;
 }
