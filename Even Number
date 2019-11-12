@@ -1,0 +1,25 @@
+#include<stdio.h>
+int main()
+{
+    int i,j=0,k,n=10,a[n];
+
+    printf("\Even numbers: ");
+
+    for (i=1;i<=n;i++)
+    {
+        if (i%2 == 0)
+        {
+            a[j]=i;
+            j++;
+        }
+    }
+
+    for(k=0;k<j;k++)
+    {
+        printf("%d ",a[k]);
+    }
+
+    printf("\n");
+
+    return 0;
+}
