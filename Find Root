@@ -24,3 +24,14 @@ int main()
   
   return 0;
 }
+
+
+------------------------------------------
+
+output--
+
+Enter equation ax^2+bx+c : 10
+Roots are Complex
+
+Enter equation ax^2+bx+c : -10
+Quadratic equation: -0.000 0.000
