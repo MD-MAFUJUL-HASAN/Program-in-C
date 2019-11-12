@@ -16,3 +16,12 @@ int main()
     
     return 0;
 }
+
+
+-----------------------------------------------------------
+
+Output--
+
+Enter the value of N: 15
+
+Sum of the total value : 435
