@@ -22,3 +22,11 @@ int main()
     
     return 0;
 }
+
+
+----------------------------------------------------------------
+
+output--
+
+Enter a number: 15
+The 15 number in fibonacci series is: 610
