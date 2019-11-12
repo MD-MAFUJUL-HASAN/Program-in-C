@@ -23,3 +23,12 @@ int main()
    
     return 0;
 }
+
+
+----------------------------------------------------------------------------------------------
+
+Output--
+
+Please enter a number to find Factorial : 10
+
+Entered number is 10 and it's factorial(10!) is 3628800
