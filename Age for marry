@@ -36,3 +36,12 @@ int main()
     
     return 0;
 }
+
+
+--------------------------------------------------------------------------------------------------
+
+Output--
+
+Enter your Sex: M
+Enter your Age: 25
+you are eligible for marry
