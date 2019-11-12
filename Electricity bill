@@ -35,3 +35,13 @@ int main()
             printf("\nInvalid\n\n");
     return 0;
 }
+
+
+--------------------------------------------------------
+
+output--
+
+Enter the value of consumption unit: 300
+Enter the value of unit Price: 10
+
+Total Bill = 3300.000000
