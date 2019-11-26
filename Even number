@@ -3,11 +3,11 @@ int main()
 {
     int i,size=100,a[100],n;
     printf("\nEnter array Elements: ");
-    for(i=0;i<=size;i++)
+    for(i=0;i<size;i++)
     {
         scanf("%d\n",&a[i]);
     }
-    for(i=0;i<=size;i++)
+    for(i=0;i<size;i++)
     {
         if(a[i]%2==0)
         {
