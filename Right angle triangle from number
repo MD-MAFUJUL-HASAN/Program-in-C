@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+{
+    int i,j,c=0;
+    int a[]={100,90,80,70,60,50,40,30,20,10};
+    for(i=4;i>0;i--)
+    {
+        for(j=0;j<i;j++)
+        {
+            printf("%d\t",a[c]);
+            c++;
+        }
+        printf("\n");
+    }
+    return 0;
+}
