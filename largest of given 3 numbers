@@ -17,3 +17,12 @@ int main()
 
     return 0;
 }
+
+
+-------------------------------------------------------
+
+output--
+
+Please enter 3 numbers: 10 20 30
+
+The largest number is 30.000000
