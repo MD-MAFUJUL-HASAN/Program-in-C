@@ -6,15 +6,24 @@ int main()
 
     printf("Enter first number :");
     scanf("%d",&a);
-    
+
     printf("Enter second number :");
     scanf("%d",&b);
-    
+
     sum=a+b;
-    
-    avg=(a+b)/2;
-    
+
+    avg=(float)sum/2;
+
     printf("Average of %d and %d is = %f",a,b,avg);
 
     return 0;
 }
+
+
+------------------------------------------------
+
+output--
+
+Enter first number :15
+Enter second number :20
+Average of 15 and 20 is = 17.500000
