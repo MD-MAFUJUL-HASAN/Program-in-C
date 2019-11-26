@@ -2,40 +2,40 @@
 int main()
 {
   int i,a,b,n,choice;
-  
+
   printf("1. Addition two numbers\n");
-  
+
   printf("2. Subtraction two numbers\n");
-  
+
   printf("3. Multiply two numbers\n");
-  
+
   printf("4. Series Display\n");
-  
+
   printf("========================================\n\n\n");
-  
+
         printf("Enter your choice: ");
         scanf("%d",&choice);
-        
+
         switch(choice)
         {
         case 1:
             printf("Enter the value of a & b: ");
             scanf("%d %d",&a,&b);
-            printf("%d\n",a+b);
+            printf("Addition of two number is = %d\n",a+b);
             break;
-            
+
         case 2:
             printf("Enter the value of a & b: ");
             scanf("%d %d",&a,&b);
-            printf("%d\n",a-b);
+            printf("Subtraction of two number is = %d\n",a-b);
             break;
-            
+
         case 3:
             printf("Enter the value of a & b: ");
             scanf("%d %d",&a,&b);
-            printf("%d\n",a*b);
+            printf("Multiplication of two number is = %d\n",a*b);
             break;
-            
+
         case 4:
             printf("Enter the value of N: ");
             scanf("%d",&n);
@@ -43,11 +43,27 @@ int main()
                 printf("%d\t",i);
             printf("n");
             break;
-            
+
         default:
             printf("out of value\n");
             break;
         }
-        
+
   return 0;
 }
+
+
+---------------------------------------------------------------------------
+
+output--
+
+1. Addition two numbers
+2. Subtraction two numbers
+3. Multiply two numbers
+4. Series Display
+========================================
+
+
+Enter your choice: 2
+Enter the value of a & b: 500 200
+Subtraction of two number is = 300
