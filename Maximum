@@ -7,10 +7,17 @@ int main()
     {
         if(a[i]>max)
         {
-            min = a[i];
+            max = a[i];
             j = a[i+1];
         }
     }
-    printf("%d",max);
+    printf("Maximum of this series is = %d",max);
     return 0;
 }
+
+
+-------------------------------------------------
+
+output--
+
+Maximum of this series is = 100
