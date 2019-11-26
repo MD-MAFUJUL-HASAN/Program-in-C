@@ -12,7 +12,15 @@ int main()
             num--;
         }
         
-    printf("%d",a);
+    printf("Factorial is = %d",a);
     
     return 0;
 }
+
+
+------------------------------------------------
+
+output--
+
+Enter a number: 5
+Factorial is = 120
