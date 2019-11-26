@@ -30,3 +30,13 @@ int main()
     
     return 0;
 }
+
+
+----------------------------------------------------
+
+output--
+
+Input the value of var1: 25
+Input the value of var2: 20
+var1 is not equal to var2
+var1 is greater than var2
