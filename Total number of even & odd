@@ -1,0 +1,43 @@
+#include<stdio.h>
+int main()
+{
+    int i,size,a[size];
+    int even_count=0,odd_count=0;
+    printf("\nEnter the array size: ");
+    scanf("%d",&size);
+    printf("\nEnter the array elements: ");
+    for(i=0;i<size;i++)
+    {
+        scanf("%d",&a[i]);
+    }
+    for(i=0;i<size;i++)
+    {
+        if(a[i]%2==0)
+        {
+            even_count++;
+        }
+        else
+        {
+            odd_count++;
+        }
+    }
+    printf("\nTotal Even number in this array = %d",even_count);
+    printf("\nTotal Odd number in this array = %d",odd_count);
+    return 0;
+}
+
+
+--------------------------------------------------------------
+
+output--
+
+Enter the array size: 5
+
+Enter the array elements: 1
+2
+3
+4
+5
+
+Total Even number in this array = 2
+Total Odd number in this array = 3
