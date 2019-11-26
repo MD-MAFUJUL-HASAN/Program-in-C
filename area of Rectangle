@@ -12,3 +12,11 @@ int main()
   
   return 0;
 }
+
+
+--------------------------------------------------------------
+
+output--
+
+Enter length & breadth: 25 25
+Area of Rectangle: 625
