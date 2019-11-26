@@ -18,3 +18,11 @@ int main()
   
   return 0;
 }
+
+
+---------------------------------------------
+
+output--
+
+Enter the value of a & b: 5 3
+Result: 181.019333
