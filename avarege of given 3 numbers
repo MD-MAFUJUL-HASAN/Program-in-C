@@ -11,9 +11,19 @@ int main()
     
     d=((a+b+c)/3);
     
-    printf("\nSum is %d",sum);
+    printf("\nSum is = %d",sum);
     
-    printf("\nAverage is %f",d);
+    printf("\nAverage is = %f",d);
     
     return 0;
 }
+
+
+------------------------------------------------------------
+
+output--
+
+Please enter 3 numbers : 10 20 30
+
+Sum is = 60
+Average is = 20.000000
