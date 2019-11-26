@@ -14,3 +14,11 @@ int main()
     
   return 0;
 }
+
+
+----------------------------------------------
+
+output--
+
+Enter the value of variable 1 & 2: 50 40
+vari1 is greayer then vari2
