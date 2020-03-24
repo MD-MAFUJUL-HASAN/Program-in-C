@@ -1,0 +1,10 @@
+#include<stdio.h>
+
+void main()
+{
+    float Kilometer, Mile;
+    printf("Enter the value of Kilometer = ");
+    scanf("%f",&Kilometer);
+    Mile = 0.62*Kilometer;
+    printf("\nThe Conversion of Kilometer to Mile is = %f\n",Mile);
+}
