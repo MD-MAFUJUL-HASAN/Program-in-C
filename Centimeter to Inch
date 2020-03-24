@@ -1,0 +1,10 @@
+#include<stdio.h>
+
+void main()
+{
+    float Centimeter, Inch;
+    printf("Enter the value of Centimeter = ");
+    scanf("%f",&Centimeter);
+    Inch = Centimeter/2.54;
+    printf("\nThe Conversion of Centimeter to Inch is = %f\n",Inch);
+}
