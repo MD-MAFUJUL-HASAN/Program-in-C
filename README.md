@@ -9,7 +9,7 @@
 **_[https://github.com/MD-MAFUJUL-HASAN/Program-in-C/](https://github.com/MD-MAFUJUL-HASAN/Program-in-C)_ ⭐⭐⭐**
 
 ### [List of Programs](https://github.com/MD-MAFUJUL-HASAN/Program-in-C) :-
-* [(1-dimension) with index](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/(1-dimension)%20with%20index)
+* [(1-dimension) with index](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/(1-dimension)%20with%20index.c)
 * [(2-dimension)](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/(2-dimension))
 * [1 2 3 4 .......10](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/1%202%203%204%20.......10)
 * [1+2+3+.....+n](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/1%2B2%2B3%2B.....%2Bn)
