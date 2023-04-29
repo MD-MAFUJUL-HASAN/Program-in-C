@@ -1,64 +1,26 @@
-![image](https://user-images.githubusercontent.com/128472454/226607075-98e4c7be-263e-46ad-a7bc-1bfa8c3b0591.jpg)
-
-<div Align="center"><h1> <a href="https://github.com/MD-MAFUJUL-HASAN/Program-in-C">Program-in-C</a></h1></div>
+<div align="center">
   
-**This Contain All the C Programming basics that I have done while understanding C programming language Concepts.**
+  ### Program-in-C
+</div>
 
-**The detailed Description of each program along with the meta projects listed in this repository can be found at github page :-**
-
-**_[https://github.com/MD-MAFUJUL-HASAN/Program-in-C/](https://github.com/MD-MAFUJUL-HASAN/Program-in-C)_ ⭐⭐⭐**
-
-### [List of Programs](https://github.com/MD-MAFUJUL-HASAN/Program-in-C) :-
-* [(1-dimension) with index](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/(1-dimension)%20with%20index.c)
-* [(2-dimension)](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/(2-dimension.c))
-* [1 2 3 4 .......10](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/1%202%203%204%20.......10.c)
-* [1+2+3+.....+n](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/1%2B2%2B3%2B.....%2Bn.c)
-* [1+2+3+......+200](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/1%2B2%2B3%2B......%2B200.c)
-* [1+5+9+13+......+nth term](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/1%2B5%2B9%2B13%2B......%2Bnth%20term.c)
-* [1-dimension Array](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/1-dimension%20Array.c)
-* [10 20 30 40 50](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/10%2020%2030%2040%2050.c)
-* [2-dimension Array Summation](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/2-dimension%20Array%20Summation.c)
-* [6+16+26+.....+n](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/6%2B16%2B26%2B.....%2Bn.c)
-* [Age for marry](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Age%20for%20marry.c)
-* [Area of Triangle](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Area%20of%20Triangle.c)
-* [C program for Factorial](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/C%20program%20for%20Factorial.c)
-* [Celcius to Farenheit](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Celcius%20to%20Farenheit.c)
-* [Count Number of Digits in an Integer](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Count%20Number%20of%20Digits%20in%20an%20Integer.c)
-* [Draw a Right-angle](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Draw%20a%20Right-angle.c)
-* [Electricity bill](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Electricity%20bill.c)
-* [Example of if…else](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Example%20of%20if%E2%80%A6else.c)
-* [Example of nested if…else](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Example%20of%20nested%20if%E2%80%A6else.c)
-* [Factorial number](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Factorial%20number.c)
-* [Farenheit to Celcius](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Farenheit%20to%20Celcius.c)
-* [Find Root](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Find%20Root.c)
-* [Find power of a number (a^b)](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Find%20power%20of%20a%20number%20(a%5Eb).c)
-* [Find the Nth Fibonacci Number using Recursion](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Find%20the%20Nth%20Fibonacci%20Number%20using%20Recursion.c)
-* [Grade](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Grade.c)
-* [If-else](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/If-else.c)
-* [Male-Female](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Male-Female.c)
-* [Print half pyramid](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Print%20half%20pyramid.c)
-* [Print half pyramid using star](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Print%20half%20pyramid%20using%20star.c)
-* [Switch case](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Switch%20case.c)
-* [Total number of digits](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Total%20number%20of%20digits.c)
-* [Vowel or consonant](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/Vowel%20or%20consonant.c)
-* [area of Rectangle](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/area%20of%20Rectangle.c)
-* [avarege of given 3 numbers](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/avarege%20of%20given%203%20numbers.c)
-* [average](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/average.c)
-* [do-while series](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/do-while%20series.c)
-* [factorial](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/factorial.c)
-* [half pyramid](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/half%20pyramid.c)
-* [largest of given 3 numbers](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/largest%20of%20given%203%20numbers.c)
-* [n সংখ্যক number এর যোগফল](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/n%20%E0%A6%B8%E0%A6%82%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%95%20number%20%E0%A6%8F%E0%A6%B0%20%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%AB%E0%A6%B2.c)
-* [nested if else](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/nested%20if%20else.c)
-* [prime number](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/prime%20number/c)
-* [print 1-15 Numbers in Pyramid fashion](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/print%201-15%20Numbers%20in%20Pyramid%20fashion.c)
-* [print full pyramid](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/print%20full%20pyramid.c)
-* [print half pyramid](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/print%20half%20pyramid.c)
-* [series display](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/series%20display.c)
-* [squareroot](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/squareroot.c)
-* [swaping](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/swaping.c)
-* [switchcase series](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/switchcase%20series.c)
-* [while and do…while loop](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/while%20and%20do%E2%80%A6while%20loop.c)
-* [while series](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/while%20series.c)
-* [write a c program to add two integer numbers](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/write%20a%20c%20program%20to%20add%20two%20integer%20numbers.c)
-* [লব-হর](https://github.com/MD-MAFUJUL-HASAN/Program-in-C/blob/add-code-of-conduct-1/%E0%A6%B2%E0%A6%AC-%E0%A6%B9%E0%A6%B0.c)
+<p align="center">
+&emsp;
+  <img src="https://img.shields.io/github/languages/code-size/MD-MAFUJUL-HASAN/Program-in-C?style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/repo-size/MD-MAFUJUL-HASAN/Program-in-C?color=purple&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/languages/count/MD-MAFUJUL-HASAN/Program-in-C?color=green&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/languages/top/MD-MAFUJUL-HASAN/Program-in-C?color=orange&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/commit-activity/m/MD-MAFUJUL-HASAN/Program-in-C?color=lime&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/last-commit/MD-MAFUJUL-HASAN/Program-in-C?color=darkgreen&style=for-the-badge">
+  &emsp;
+  <img src="https://tokei.rs/b1/github/MD-MAFUJUL-HASAN/Program-in-C?category=code" width="200">
+  &emsp;
+  <img src="https://tokei.rs/b1/github/MD-MAFUJUL-HASAN/Program-in-C?category=lines" width="175">
+  &emsp;
+  <img src="https://tokei.rs/b1/github/MD-MAFUJUL-HASAN/Program-in-C?category=files" width="100">
+  &emsp;
+  </p>
